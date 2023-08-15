@@ -2,6 +2,6 @@
 # first
 ## second
 
-'''cpp
+```cpp
 int x = 8;
-'''
+```
